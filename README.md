@@ -1,6 +1,3 @@
-
-Here is a perfected version of your project description:
-
 In this project, we used the Canada housing dataset to show:
 
 How many people own land and houses in some parts of Canada
