@@ -17,4 +17,4 @@ numpy
 seaborn
 This repository will be updated regularly with new codes and insights.
 
-Feel free to play around with the codes and give feedback!****
+Feel free to play around with the codes and give feedback!
